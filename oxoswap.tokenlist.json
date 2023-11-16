@@ -14,6 +14,14 @@
       "symbol": "WOXO",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/oxonetwork/list/main/assets/woxo.png"
+    },
+    {
+      "chainId": 18277,
+      "address": "0x1a32013d452222C2fFA5230ae3BC3D72A8A8c7B6",
+      "name": "Oxo Swap",
+      "symbol": "OSWAP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/oxonetwork/list/main/assets/oxoswap.png"
     }
   ],
   "version": {
